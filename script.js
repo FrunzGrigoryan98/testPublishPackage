@@ -8,3 +8,6 @@ function countDown(number) {
 }
 
 countDown(4)
+module.export ={
+    countDown
+}
